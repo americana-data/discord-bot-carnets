@@ -1,0 +1,4 @@
+requests==2.27.1
+beautifulsoup4==4.11.1
+python-discord==1.7.3
+aiohttp==3.7.4.post0
